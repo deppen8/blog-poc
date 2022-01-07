@@ -11,7 +11,7 @@ _Vivianne Miedema_
 
 ---
 
-[**An example of a Jupyter Notebook-based post**](2022-01-07-a-notebook)
+[**An example of a Jupyter Notebook-based post**](posts/latest/2022-01-07-a-notebook)
 
 _Thierry Henry_
 
