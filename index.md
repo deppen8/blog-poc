@@ -7,12 +7,12 @@ Welcome! This is the landing page.
 ````{panels}
 [**A First Post**](posts/latest/2022-01-06-a-post)
 
-_Jacob Deppen_
+_Vivianne Miedema_
 
 ---
 
-**Another post with a significantly longer title**
+[**An example of a Jupyter Notebook-based post**](2022-01-07-a-notebook)
 
-_A second author_
+_Thierry Henry_
 
 ````

@@ -1,4 +1,6 @@
 jupyter-book
 matplotlib
 numpy
+altair
+vega_datasets
 ghp-import
